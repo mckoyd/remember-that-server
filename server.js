@@ -69,3 +69,5 @@ if (require.main === module) {
     console.error(err);
   });
 }
+
+module.exports = app;
