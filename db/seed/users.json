@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Zeus",
+    "lastName": "Jupiter",
+    "emailAddress": "zeus@email.com",
+    "username": "zeus",
+    "password": "thunderbolt"
+  },
+  {
+    "firstName": "Aphrodite",
+    "lastName": "Venus",
+    "emailAddress": "venus@email.com",
+    "username": "venus",
+    "password": "love"
+  },
+  {
+    "firstName": "Minerva",
+    "lastName": "Athena",
+    "emailAddress": "athena@email.com",
+    "username": "athena",
+    "password": "smarts"
+  }
+]

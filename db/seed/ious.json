@@ -1,0 +1,50 @@
+[
+  { 
+    "id": "111111111101",
+    "iouName": "Joe Schmoe", 
+    "iouAmount": "70.45",
+    "userId": "000000000000000000001"
+  },
+  {
+    "id": "111111111102",
+    "iouName": "Jane Plain", 
+    "iouAmount": "33.00",
+    "userId": "000000000000000000002"
+  },
+  {
+    "id": "111111111103",
+    "iouName": "Sticky Ricky", 
+    "iouAmount": "23.13",
+    "userId": "000000000000000000003"
+  },
+  {
+    "_id": "111111111104",
+    "iouName": "Pollutin' Poutin", 
+    "iouAmount": "12309.00",
+    "userId": "000000000000000000001"
+  },
+  {
+    "_id": "111111111105",
+    "iouName": "Loose Lucy", 
+    "iouAmount": "105.50",
+    "userId": "000000000000000000002"
+  },
+  {
+    "_id": "111111111106",
+    "iouName": "Broski", 
+    "iouAmount": "15.00",
+    "userId": "000000000000000000003"
+  },
+  {
+    "_id": "111111111107",
+    "iouName": "Bruno's Chicken & Waffles", 
+    "iouAmount": "38.50",
+    "userId": "000000000000000000001"
+  },
+  {
+    "_id": "111111111108",
+    "iouName": "Sneaky Petey", 
+    "iouAmount": "7.32",
+    "userId": "000000000000000000002"
+  }
+]
